@@ -1,0 +1,33 @@
+ 1  cd desktop/
+    2  pwd desktop
+    3  ls
+    4  pwd
+    5  cd Desktop/progra/Intro/      
+    6  mkdir 20230605-JairOrtega
+    7  git init
+    8  git add remote origin https://github.com/VinsmokeJr/20230605-JairOrtega.git
+    9  touch comandos.txt main.js index.html
+   10  git add .
+   11  git commit -m "primer commit"   
+   12  git branch feature01
+   13  git checkout feature01
+   14  mkdir Terminal Hardware
+   15  cd Terminal/ touch resumen.txt
+   16  cd ..
+   17  cd Hardware/ touch resumen
+   18  cd ..
+   19  git add .
+   20  git commit -m "commit 02 JairOrtega"
+   21  git branch feature02
+   22  git checkout feature02
+   23  cd Terminal/
+   24  nano resumen.txt
+   25  cd ..
+   26  cd Hardware/
+   27  nano resumen
+   32  git add .
+   33  git commit -m "commit 03 JairOrtega"
+   34  git push -u origin feature02
+   35  git checkout main
+   36  mv comandos.txt comandosutilizados.txt
+   37 
