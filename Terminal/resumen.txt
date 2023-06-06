@@ -1,0 +1,8 @@
+  5 Ccomandos aprendidos en clase.
+
+
+1-git branch
+2-git add
+3-cd
+4-touch
+5-mkdir
