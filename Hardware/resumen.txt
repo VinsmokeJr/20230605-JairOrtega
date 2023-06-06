@@ -1,0 +1,6 @@
+	3 Partes internad de la computadora
+
+
+1-Procesador
+2-GPU
+3-SSD
